@@ -1,0 +1,3 @@
+Olá! me chamo Adson Walber, tenho 25 anos, sou graduando em Análise e desenvolvimento de sistemas.
+
+Autodidata há mais de 10 anos, sempre fui curioso para entender como as coisas funcionavam. Me interessei pelo desenvolvimento web e mobile e com o tempo e muito estudo, venho desenvolvendo minhas habilidades na criação de softwares web e aplicações mobile com Javascript. Hoje, com todo o ecossistema javascript e meu atual foco no desenvolvimento Front-end, venho me especializando na stack Node, React e React Native por conta do grande poder que estas tecnologias tem, principalmente quando combinadas, comunidade ativa e seu constante crescimento com o passar dos anos.
